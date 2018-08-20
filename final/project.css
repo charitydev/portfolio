@@ -1,0 +1,90 @@
+body{
+	background: url('img/pexels-photo-796602.jpeg');
+	backfround-repeat: no-repeat;
+	background-size: cover; 
+	backgroubd-attachment: fixed;
+}
+header{
+	float           : left;
+	background-color: black;
+	padding         : 5px 0 0 0;
+	margin          : 0 0 30px 0;
+	width            :100%;
+
+}
+img{
+	max-width   :100%;
+}
+a{
+	text-decoration: none;
+}
+h1{
+color: white;
+}
+h2{
+color: white;	
+}
+
+
+nav{
+	float           : 	right;
+	padding         :   10px 0;
+	margin          :    20px 0 0;
+}
+nav ul{
+	list-tyle       :none;
+	margin          :0 10px;
+	padding         :0;
+}
+  
+ nav li{
+ 	display         :Inline-block;
+
+ }
+
+
+ nav a{
+ 	font-weight     :900;
+ 	padding         :15px 10px;
+ }
+
+ nav a, nav a:visited{
+ 	color           :lightgreen; 
+
+ }
+
+ footer {
+ 	font-size       :1.5em;
+ 	text-align      :center;
+ 	padding-top      :50px;
+ 	color           :green;
+ }
+ nav a.sected,nav a : hover{
+ 	color:                 #32673f;
+ }
+ .social-icon{
+ 	width           : 40px;
+ 	height          :  40px;
+ 	margin          : 0 5px;
+ }
+
+.contact-info{
+	list-style      : none;
+     margin         :0;
+     font-size      :0.95em;
+     color          :green;
+
+
+}
+
+.profile-photo{
+	float           : right;
+	display         : block;
+	max-width       :350px;
+	margin          : 0;
+	border-radius   :100%;
+}
+a{
+	font-size       : ;
+	color           : green;
+}
